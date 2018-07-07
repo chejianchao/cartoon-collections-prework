@@ -11,6 +11,7 @@ def summon_captain_planet(array)# code an argument here
     item[0] = item[0].upcase
     item << "!"
   }
+  array
 end
 
 def long_planeteer_calls# code an argument here
